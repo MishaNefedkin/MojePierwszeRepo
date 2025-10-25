@@ -166,7 +166,7 @@ class Program
 
         {
 
-            Console.Write($ "{i} ");
+            Console.Write($"{i} ");
         }
 
         Console.WriteLine();
