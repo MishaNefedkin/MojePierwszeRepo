@@ -181,7 +181,7 @@ class Program
 
             {
 
-                Console.Write($ "{board[i, j]} ");
+                Console.Write($"{board[i, j]} ");
             }
 
             Console.WriteLine();
