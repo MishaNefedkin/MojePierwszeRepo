@@ -278,6 +278,6 @@ class Program
             }
         }
 
-        return uncoveredCount == /* ??*/ *height - bombCount;
+        return uncoveredCount == (height * width - bombCount);
     }
 }
