@@ -175,7 +175,7 @@ class Program
 
         {
 
-            Console.Write($ "{i} ");
+            Console.Write($"{i} ");
 
             for (int j = 0; j < width; j++)
 
